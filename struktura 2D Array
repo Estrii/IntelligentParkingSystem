@@ -1,0 +1,27 @@
+/*
+STRUKTURA E ARRAY 2D - parking[][]
+
+Programi përdor një array dy-dimensional (2D) për të ruajtur
+të gjitha të dhënat e sistemit inteligjent të parkimit.
+
+Çdo rresht i array-t përfaqëson një vend parkimi të vetëm.
+Numri i rreshtave varet nga numri i vendeve të parkimit dhe
+përcaktohet nga të dhënat e lexuara nga file data.txt.
+
+Çdo kolonë e array-t ruan një informacion specifik për vendin
+përkatës të parkimit, sipas renditjes së mëposhtme:
+
+0 - Numri identifikues i vendit të parkimit
+1 - Lloji i parkimit (NORMAL / VIP)
+2 - Statusi i vendit (FREE / OCCUPIED)
+3 - Targa e automjetit të parkuar
+4 - Ora e hyrjes në parkim (timestamp)
+5 - Ora e daljes nga parkimi (timestamp)
+6 - Koha totale e parkimit (në orë)
+7 - Çmimi i parkimit të llogaritur automatikisht
+8 - Gjoba e aplikuar në rast tejkalimi të kohës së lejuar
+
+Kjo strukturë lejon menaxhimin e vendeve të parkimit,
+llogaritjen e kohës dhe kostos, evidentimin e shkeljeve
+dhe ruajtjen/ngarkimin e të dhënave nga file.
+*/
