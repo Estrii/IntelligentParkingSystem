@@ -2,7 +2,7 @@
 
 Ky projekt është një program në Java që simulon një sistem inteligjent parkimi.
 
-## Përshkrimi i projektit
+## PERSHKRIMI PROJEKTIT
 Programi përdor një *array 2D* ku çdo rresht përfaqëson një vend parkimi.  
 Çdo vend ka këto informacione:
 - Numri i vendit
@@ -14,7 +14,7 @@ Programi përdor një *array 2D* ku çdo rresht përfaqëson një vend parkimi.
 - Koha totale e parkimit
 - Gjoba e aplikuar në rast shkeljeje
   
-##Funksionalitetet
+## FUNKSIONALITETI
 Programi lejon:
 - Regjistrimin e automjeteve në vende të lira
 - Llogaritjen automatike të kohës dhe çmimit të parkimit
@@ -25,9 +25,10 @@ Programi lejon:
 - Ruajtjen dhe ngarkimin e të dhënave nga një file
 - Trajtimin e gabimeve me exception handling
 
-## Si ta përdorësh
+## PERDORIMI 
 1. Regjistro një automjet
 2. Liro një vend parkimi
 3. Shiko gjendjen e parkimit
 4. Shfaq statistika
 5. Të dhënat ruhen në data.txt
+
